@@ -1,0 +1,13 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Guillaume Roussin",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.1",
+    "typescript": "^5.7.2"
+  }
+}
