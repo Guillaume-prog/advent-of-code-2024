@@ -7,6 +7,7 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
+    "@types/node": "^22.10.1",
     "prettier": "^3.4.1",
     "typescript": "^5.7.2"
   }
