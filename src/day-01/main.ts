@@ -1,4 +1,4 @@
-import { loadInput, sum } from "../util/main";
+import { loadInput, sum } from "@util/main";
 
 // Parse phase
 const input = loadInput(__dirname).map((line) =>

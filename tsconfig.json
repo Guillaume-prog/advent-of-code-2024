@@ -27,9 +27,9 @@
     /* Modules */
     "module": "commonjs" /* Specify what module code is generated. */,
 
-    "baseUrl": "./src/",
+    "baseUrl": "src",
     "paths": {
-      "@util/*": ["./util/*"]
+      "@util/*": ["util/*"]
     },
 
     // "rootDir": "./",                                  /* Specify the root folder within your source files. */
